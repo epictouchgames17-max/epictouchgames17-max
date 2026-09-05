@@ -946,3 +946,4 @@ video.unrulymedia.com, 201313863, RESELLER
 smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
 themediagrid.com, jvhg38, RESELLER, 9fac4a4a87c2a44f
 bluexad.ai, 1996418805747683328, RESELLER
+applovin.com, b22a5dd671e6171e59c7fef58602e23e, DIRECT
