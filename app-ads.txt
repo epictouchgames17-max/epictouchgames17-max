@@ -1,3 +1,5 @@
+OWNERDOMAIN=epictouchgames17-max.github.io
+
 google.com, pub-3803867599926405, DIRECT, f08c47fec0942fa0
 facebook.com, 29638546052400785, DIRECT, f08c47fec0942fa0
 facebook.com, 29638546052400785, RESELLER, f08c47fec0942fa0
